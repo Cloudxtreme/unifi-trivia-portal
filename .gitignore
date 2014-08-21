@@ -2,10 +2,15 @@
 *.o
 *.a
 *.so
+unifi-trivia-portal
 
 # Folders
 _obj
 _test
+
+# Editor backup files
+*~
+*.bak
 
 # Architecture specific extensions/prefixes
 *.[568vq]
